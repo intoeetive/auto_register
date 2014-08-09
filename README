@@ -1,3 +1,3 @@
 This add-on will create user account if someone tries to log in with the email not found in the system.
 
-The user will be send email with the password. If self-activation is required in membership preferences, then conformation link will also be included in the message.
+If self-activation is required in membership preferences, then the user will be send email with the password and email verification link will also be included in the message.
